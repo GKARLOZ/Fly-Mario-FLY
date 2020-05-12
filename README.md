@@ -1,4 +1,4 @@
-# Fly-Mario-FLY
+# FlyingMario-Snake-TurtleShells
 snake game 
 
 Mario gains more turtle shells as he catches Bowser. It could be difficult to catch Bowser sometimes since Mario doesn't get him at the middle of Bowser. Mario could lose by touching his own turtle shells. 
