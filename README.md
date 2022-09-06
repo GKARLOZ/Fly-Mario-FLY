@@ -1,16 +1,18 @@
-# FlyingMario-Snake-TurtleShells
-snake game 
+## Getting Started
 
-Mario gains more turtle shells as he catches Bowser. It could be difficult to catch Bowser sometimes since Mario doesn't get him at the middle of Bowser. Mario could lose by touching his own turtle shells. 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-This is one of my first codeing projects;therefore, I might have some minor errors. 
+## Folder Structure
 
-Download the zip file from the "clone or download" button.
+The workspace contains two folders by default, where:
 
-Open the file folder named "FlyingMario-Snake-TurtleShells" 
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Open the "MainSnake.java" with your IDE and compile the code. 
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-Leave everything in the same file or you might have some issues. 
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-Now you could play the game!! 
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
